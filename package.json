@@ -1,0 +1,11 @@
+{
+  "name": "alfred-dice-roller",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Linus Karsai <linus@linusk.com.au>",
+  "license": "MIT",
+  "dependencies": {
+    "alfy": "^0.9.1",
+    "ini": "^1.3.5"
+  }
+}
