@@ -7,3 +7,8 @@ It's triggered by the keyword `roll` and can take simple rolls like `roll 20` as
 ![](https://raw.githubusercontent.com/karsai5/alfred-dice-roller/documentation/images/Screen%20Shot%202020-04-22%20at%201.56.40%20pm.png)
 
 Under the hood it's using the [rolz api](https://rolz.org/help/api). For more info on the different dice rolls you can use check out the [rolz website](https://rolz.org/).
+
+## Installation
+
+Installation is via npm
+`npm install alfred-dice-roller`
