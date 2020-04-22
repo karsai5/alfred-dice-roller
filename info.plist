@@ -6,10 +6,6 @@
 	<string>au.com.linusk.alfred-dice-roller</string>
 	<key>connections</key>
 	<dict/>
-	<key>createdby</key>
-	<string>Linus Karsai</string>
-	<key>description</key>
-	<string></string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -62,8 +58,6 @@
 			<string>alfred.workflow.input.scriptfilter</string>
 			<key>uid</key>
 			<string>2DBA2164-04C4-4DAB-ADF1-85B163F049E3</string>
-			<key>version</key>
-			<integer>3</integer>
 		</dict>
 	</array>
 	<key>readme</key>
@@ -78,7 +72,5 @@
 			<integer>225</integer>
 		</dict>
 	</dict>
-	<key>webaddress</key>
-	<string></string>
 </dict>
 </plist>

@@ -314,6 +314,11 @@ currently-unhandled@^0.4.1:
   dependencies:
     array-find-index "^1.0.1"
 
+dayjs@^1.8.25:
+  version "1.8.25"
+  resolved "https://packages.atlassian.com/api/npm/npm-remote/dayjs/-/dayjs-1.8.25.tgz#d09a8696cee7191bc1289e739f96626391b9c73c"
+  integrity sha1-0JqGls7nGRvBKJ5zn5ZiY5G5xzw=
+
 decompress-response@^3.3.0:
   version "3.3.0"
   resolved "https://packages.atlassian.com/api/npm/npm-remote/decompress-response/-/decompress-response-3.3.0.tgz#80a4dd323748384bfa248083622aedec982adff3"
